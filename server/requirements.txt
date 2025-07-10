@@ -1,0 +1,9 @@
+fastapi
+boto3 
+uvicorn 
+python-multipart
+pydantic_settings
+sqlalchemy
+boto3-stubs[essential]
+psycopg2-binary
+redis
