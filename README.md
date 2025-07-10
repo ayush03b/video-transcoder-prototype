@@ -1,4 +1,4 @@
-# 🎞️ Video Transcoder API
+# 🎞️ Video Transcoder API *PROTOTYPE
 A high-performance, scalable video transcoding pipeline built using FastAPI, S3, SQS, and ECS Fargate, designed to process and convert videos on demand. Think of it as your own mini-YouTube backend transcoder. Just upload a video and let the system handle the rest — automatic format conversion, async queue processing, and robust cloud-native architecture.
 
 ✅ Upload videos via presigned S3 URLs
